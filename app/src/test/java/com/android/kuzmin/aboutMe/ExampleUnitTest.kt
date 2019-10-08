@@ -1,4 +1,4 @@
-package com.android.kuzmin.AboutMe
+package com.android.kuzmin.aboutMe
 
 import org.junit.Test
 

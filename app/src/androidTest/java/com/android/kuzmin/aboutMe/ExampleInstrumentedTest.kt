@@ -1,4 +1,4 @@
-package com.android.kuzmin.AboutMe
+package com.android.kuzmin.aboutMe
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
